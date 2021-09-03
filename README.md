@@ -56,5 +56,5 @@ Thanks for using our bot 😺
 
 ## Credits
    - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon library.
-   - To all devs of these [Userbots](https://github.com/sandy1709/catuserbot/tree/bugs#inspiration)
+   - To all devs of these [Userbots](https://github.com/adhin007)
    - Finally to all [contributors of Catuserbot](https://github.com/sandy1709/catuserbot/graphs/contributors)
